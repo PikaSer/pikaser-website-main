@@ -8959,9 +8959,9 @@ splitpanes@^3.2.0:
   integrity sha512-K+WKxWdqtKShV33gPjQl769wHxB3glypTOReCvYu/AJd38J+abHlpiF8rK6uBNPMrgw5thHZCI5JkEwsAqa9XA==
 
 srvx@^0.11.2:
-  version "0.11.8"
-  resolved "https://registry.yarnpkg.com/srvx/-/srvx-0.11.8.tgz#43d23b57f5385697ed2152ee42a3859d056b005a"
-  integrity sha512-2n9t0YnAXPJjinytvxccNgs7rOA5gmE7Wowt/8Dy2dx2fDC6sBhfBpbrCvjYKALlVukPS/Uq3QwkolKNa7P/2Q==
+  version "0.11.13"
+  resolved "https://registry.yarnpkg.com/srvx/-/srvx-0.11.13.tgz#cc77a98cb9a459c34f75ee4345bd0eef9f613a54"
+  integrity sha512-oknN6qduuMPafxKtHucUeG32Q963pjriA5g3/Bl05cwEsUe5VVbIU4qR9LrALHbipSCyBe+VmfDGGydqazDRkw==
 
 standard-as-callback@^2.1.0:
   version "2.1.0"
