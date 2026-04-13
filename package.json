@@ -44,11 +44,10 @@
   "engines": {
     "node": "^22 || ^24"
   },
-  "resolutions": {
-    "string-width": "4.2.3"
-  },
-  "overrides": {
-    "@nuxt/kit": "$@nuxt/kit"
-  },
-  "packageManager": "yarn@1.22.19+sha1.4ba7fc5c6e704fce2066ecbfb0b0d8976fe62447"
+  "pnpm": {
+    "overrides": {
+      "string-width": "4.2.3",
+      "@nuxt/kit": "$@nuxt/kit"
+    }
+  }
 }
