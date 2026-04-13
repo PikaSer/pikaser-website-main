@@ -42,13 +42,13 @@
     "vue-toast-notification": "^3.0"
   },
   "engines": {
-    "node": "^22 || ^24"
+    "node": ">=24.0"
   },
-  "resolutions": {
-    "string-width": "4.2.3"
+  "pnpm": {
+    "overrides": {
+      "string-width": "4.2.3",
+      "@nuxt/kit": "$@nuxt/kit"
+    }
   },
-  "overrides": {
-    "@nuxt/kit": "$@nuxt/kit"
-  },
-  "packageManager": "yarn@1.22.19+sha1.4ba7fc5c6e704fce2066ecbfb0b0d8976fe62447"
+  "packageManager": "pnpm@10.33.0"
 }
