@@ -42,7 +42,8 @@
     "vue-toast-notification": "^3.0"
   },
   "engines": {
-    "node": "^22 || ^24"
+    "node": ">=24.0",
+    "pnpm": ">=10.28.0"
   },
   "pnpm": {
     "overrides": {
