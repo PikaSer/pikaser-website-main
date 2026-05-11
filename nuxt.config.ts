@@ -94,6 +94,14 @@ export default defineNuxtConfig({
         },
       },
     },
+    optimizeDeps: {
+      include: [
+        '@vue/devtools-core',
+        '@vue/devtools-kit',
+        'pinia',
+        'vue-observe-visibility',
+      ]
+    }
   },
 
   // Enable Client-side only rendering
