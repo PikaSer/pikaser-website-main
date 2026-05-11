@@ -11,20 +11,20 @@
   },
   "devDependencies": {
     "@keplr-wallet/types": "^0.12.313",
-    "@nuxt/content": "^3.12.0",
+    "@nuxt/content": "^3.13.0",
     "@nuxt/devtools": "^2.7.0",
     "@nuxt/devtools-ui-kit": "^2.7.0",
     "@nuxt/image": "^1.11.0",
-    "@nuxt/kit": "^4.4.2",
+    "@nuxt/kit": "^4.4.5",
     "@nuxt/ui": "^2.22.3",
     "@nuxtjs/color-mode": "^3.5.2",
     "cosmjs-types": "^0.9.0",
     "github-markdown-css": "^5.9.0",
-    "nuxt": "^4.4.2",
+    "nuxt": "^4.4.5",
     "sass-embedded": "^1.99.0",
     "typescript": "^5.9.3",
-    "vite": "^7.3.2",
-    "vue": "^3.5.32"
+    "vite": "^7.3.3",
+    "vue": "^3.5.34"
   },
   "dependencies": {
     "@cosmjs/stargate": "^0.33.1",
