@@ -10,7 +10,6 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@keplr-wallet/types": "^0.12.313",
     "@nuxt/content": "^3.13.0",
     "@nuxt/devtools": "^2.7.0",
     "@nuxt/devtools-ui-kit": "^2.7.0",
@@ -18,7 +17,6 @@
     "@nuxt/kit": "^4.4.5",
     "@nuxt/ui": "^2.22.3",
     "@nuxtjs/color-mode": "^3.5.2",
-    "cosmjs-types": "^0.9.0",
     "github-markdown-css": "^5.9.0",
     "nuxt": "^4.4.5",
     "sass-embedded": "^1.99.0",
@@ -27,7 +25,6 @@
     "vue": "^3.5.34"
   },
   "dependencies": {
-    "@cosmjs/stargate": "^0.33.1",
     "@nuxtjs/i18n": "^9.5.6",
     "@pinia/nuxt": "^0.5.5",
     "@vueuse/core": "^10.11.1",
