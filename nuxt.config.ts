@@ -4,9 +4,9 @@ import { defineNuxtConfig } from "nuxt/config"
 export default defineNuxtConfig({
   modules: [
     "@nuxtjs/color-mode",
-    "@nuxt/content",
     "@nuxtjs/i18n",
     "@nuxt/ui",
+    "@nuxt/content",
     "@nuxt/image",
     "@pinia/nuxt",
     "@nuxt/devtools",
@@ -15,6 +15,7 @@ export default defineNuxtConfig({
 
   css: [
     "github-markdown-css/github-markdown-dark.css",
+    "~/assets/css/main.css",
   ],
 
   colorMode: {
