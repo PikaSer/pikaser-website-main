@@ -83,6 +83,16 @@ export default defineNuxtConfig({
     langDir: "locales",
   },
 
+  ui: {
+    prose: {
+      codePreview: {
+        slots: {
+          preview: '-border',
+        },
+      },
+    },
+  },
+
   vite: {
     vue: {
       optionsAPI: false,
