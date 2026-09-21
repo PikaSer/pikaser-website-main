@@ -28,7 +28,7 @@
     "@nuxtjs/i18n": "^9.5.6",
     "@pinia/nuxt": "^0.5.5",
     "@vueuse/core": "^10.11.1",
-    "better-sqlite3": "^11.10.0",
+    "better-sqlite3": "^13.0.3",
     "dayjs": "^1.11.23",
     "lodash.once": "^4.1.1",
     "pg": "^8.23.0",
